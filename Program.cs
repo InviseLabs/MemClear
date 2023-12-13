@@ -1,4 +1,12 @@
-﻿using System;
+﻿/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* MemClear by Invise Labs / Authors: Mike Lierman
+* Copyright Invise Labs 2023.
+* Open-source under Creative Commons Non-Commercial Use.
+* For use in commercial and for-profit applications, please contact us.
+* We can be reached at contact@inviselabs.com.
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+using System;
 using System.ComponentModel;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
