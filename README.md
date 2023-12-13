@@ -1,1 +1,2 @@
 # MemClear
+Full description coming soon. This is a console app that clears all working set memory and System File Cache, which makes available a substancial amount of RAM if you haven't rebooted the computer in a while. Great simple fast application for cleaning the RAM before starting a resource heavy game, editing videos, etc. This is similar to many of the other RAM cleaner programs out there, but without any bloat or garbage. This is a simple application, you can select deleted output and even create a log file of processes cleared.
